@@ -63,8 +63,9 @@
 - 项目地址：http://www.xpanpan.com
 - 开发时间：2016.6-2016.7
 - 技   术：HTML、CSS3、Canvas、JavaScript、JQuery、TweenMax.js
-- 描    述：简历demo页面，有较炫的3D切换效果，点击展开详情后看到4个以前写的demo的链接。
+- 描    述：简历demo页面，有较炫的3D切换效果，点击展开详情后看到4个以前写的demo的链接：  
+> http://www.xpanpan.com/xpanpan1   
+> http://www.xpanpan.com/xpanpan2   
+> http://www.xpanpan.com/xpanpan4  
+> http://www.xpanpan.com/xpanpan5  
 ---
-
-
-
