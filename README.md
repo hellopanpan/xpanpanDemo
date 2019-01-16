@@ -10,22 +10,6 @@
 - 技    术： Niginx + java + tomcat+ Vue.js + webpack + lodash + uiKit
 - 描    述：主要从事naver ncloud平台开发,类似于阿里云平台，使用架构为java+vue+uiKit+lodash，至今为止已开发过5个商品，能熟练使用vue，熟练使用github管理代码。 
 ---
-- [x] 项目名称：Douban微信小程序
-- 项目地址：https://github.com/hellopanpan/wxapp
-- 开发时间：2017.11-2017.12
-- 技    术：wx小程序组件、wx小程序API 、flex、css3
-- 描    述：个微信小程序demo，后端数据取自个人站点https://xpanpan.com,
-使用微信内置组件搭建，并调用wx.request()等内置API,本demo主要是跑通微信小程序的整个流程，整体和vue差别不大，上手快。
-
----
-- [x] 项目名称：Douban R’bao（豆瓣日报）
-- 项目地址：http://www.mpanpan.com/douban  
-  https://github.com/hellopanpan/douban
-- 开发时间：2017.9-2017.10
-- 技    术：Vue.js + node.js + web 爬虫 + webpack + less + lodash + Niginx
-- 描    述：采用Nodejs爬取豆瓣网数据，使用vue、bootstrap作为前端框架渲染数据。
-
----
 - [x] 项目名称：海边直播专题页
 - 项目地址：
 
@@ -43,6 +27,13 @@
 - 描    述：1.开发主要为js+jq+css的方式，开发内容根据好未来“海边直播”的业务需求，完成前端专题页面和h5页面，提测，完成上线，其中移动端使用了较多css3。 2.在奥数网和中考网（好未来旗下网站）CMS平台完成开发前端pc页面和移动端页面，开发主要技术为html+css+js。 3.修复和调试网页上存在的bug，维护好未来旗下网站页面的正常显示。
 
 ---
+- [x] 项目名称：Douban R’bao（豆瓣日报）
+- 项目地址：http://www.mpanpan.com/douban  
+  https://github.com/hellopanpan/douban
+- 开发时间：2017.9-2017.10
+- 技    术：Vue.js + node.js + web 爬虫 + webpack + less + lodash + Niginx
+- 描    述：采用Nodejs爬取豆瓣网数据，使用vue、bootstrap作为前端框架渲染数据。
+---
 
 - [x] 项目名称：Wechat聊天室
 - 项目地址：http://github.com/hellopanpan/WeChat
@@ -58,6 +49,14 @@
 - 技    术：HTML、CSS3、Canvas、JavaScript、JQuery、AJax、PHP、MySql
 - 描    述：类似于微博，可登陆，发表问题，评论，还有一个canvas小游戏。
 ---
+
+---
+- [x] 项目名称：Douban微信小程序
+- 项目地址：https://github.com/hellopanpan/wxapp
+- 开发时间：2017.11-2017.12
+- 技    术：wx小程序组件、wx小程序API 、flex、css3
+- 描    述：个微信小程序demo，后端数据取自个人站点https://xpanpan.com,
+使用微信内置组件搭建，并调用wx.request()等内置API,本demo主要是跑通微信小程序的整个流程，整体和vue差别不大，上手快。
 
 - [x] 项目名称：个人简历与作品页
 - 项目地址：http://www.mpanpan.com
