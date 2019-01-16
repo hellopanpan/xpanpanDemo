@@ -19,7 +19,7 @@
 
 ---
 - [x] 项目名称：Douban R’bao（豆瓣日报）
-- 项目地址：https://www.xpanpan.com/douban  
+- 项目地址：http://www.mpanpan.com/douban  
   https://github.com/hellopanpan/douban
 - 开发时间：2017.9-2017.10
 - 技    术：Vue.js + node.js + web 爬虫 + webpack + less + lodash + Niginx
@@ -53,19 +53,19 @@
 
 
 - [x] 项目名称：Panpan之家
-- 项目地址：http://www.xpanpan.com/xpanpan7
+- 项目地址：http://www.mpanpan.com/xpanpan7
 - 开发时间：2016.7-2016.8
 - 技    术：HTML、CSS3、Canvas、JavaScript、JQuery、AJax、PHP、MySql
 - 描    述：类似于微博，可登陆，发表问题，评论，还有一个canvas小游戏。
 ---
 
 - [x] 项目名称：个人简历与作品页
-- 项目地址：http://www.xpanpan.com
+- 项目地址：http://www.mpanpan.com
 - 开发时间：2016.6-2016.7
 - 技   术：HTML、CSS3、Canvas、JavaScript、JQuery、TweenMax.js
 - 描    述：简历demo页面，有较炫的3D切换效果，点击展开详情后看到4个以前写的demo的链接：  
-> 商场页： http://www.xpanpan.com/xpanpan1  
-> 防小米5页面：http://www.xpanpan.com/xpanpan2  
-> QQ浏览器：http://www.xpanpan.com/xpanpan4  
-> 百度云盘：http://www.xpanpan.com/xpanpan5   
+> 商场页： http://www.mpanpan.com/xpanpan1  
+> 防小米5页面：http://www.mpanpan.com/xpanpan2  
+> QQ浏览器：http://www.mpanpan.com/xpanpan4  
+> 百度云盘：http://www.mpanpan.com/xpanpan5   
 ---
