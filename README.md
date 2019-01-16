@@ -25,7 +25,7 @@
 - 开发时间：2017.11-2017.1
 - 技    术：Vue.js + node.js + web 爬虫 + webpack + less + lodash + Niginx
 - 描    述：1.开发主要为js+jq+css的方式，开发内容根据好未来“海边直播”的业务需求，完成前端专题页面和h5页面，提测，完成上线，其中移动端使用了较多css3。 2.在奥数网和中考网（好未来旗下网站）CMS平台完成开发前端pc页面和移动端页面，开发主要技术为html+css+js。 3.修复和调试网页上存在的bug，维护好未来旗下网站页面的正常显示。
-
+---
 ---
 - [x] 项目名称：Douban R’bao（豆瓣日报）
 - 项目地址：http://www.mpanpan.com/douban  
@@ -48,7 +48,6 @@
 - 开发时间：2016.7-2016.8
 - 技    术：HTML、CSS3、Canvas、JavaScript、JQuery、AJax、PHP、MySql
 - 描    述：类似于微博，可登陆，发表问题，评论，还有一个canvas小游戏。
----
 
 ---
 - [x] 项目名称：Douban微信小程序
